@@ -1,5 +1,5 @@
 {
-  "version": "1.0.1",
+  "version": "1.0.2",
   "url": "https://github.com/hoanglamnguyentb/HinetSign-for-Thanh-Tra-BQP/releases/download/HinetSign-for-Thanh-Tra-BQP/HiNETSign_Setup.msi",
-  "changelog": "1. Thêm tính năng cập nhật\n2. Sửa lỗi đăng nhập\n3. Cải thiện hiệu suất"
+  "changelog": "1. Fix lỗi tính năng cập nhật\n2. Sửa lỗi đăng nhập\n3. Cải thiện hiệu suất"
 }
